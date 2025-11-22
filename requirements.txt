@@ -1,0 +1,10 @@
+openai
+pandas
+numpy
+requests
+yfinance
+matplotlib
+seaborn
+sqlalchemy
+python-dotenv
+jupyter
